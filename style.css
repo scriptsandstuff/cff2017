@@ -1,0 +1,53 @@
+
+
+
+body {
+    margin: 0;
+    padding: 0;
+    border: none;
+}
+/*
+
+header {
+    display: flex;
+}
+
+main {
+    display: grid;    
+}
+*/
+
+#map {
+    width: 80%;
+    height: 80vh;
+    margin: auto;
+/*    margin-top: 10vh;*/
+}
+
+#evt {
+    color: red;
+}
+
+.event_list {
+    list-style-type: none;
+/*     list-style-position: inside; */
+    padding-left: 0px;
+}
+
+.price {
+	font-weight: bold;
+	text-align: right;
+}
+
+.my_select {
+	width: 80%;
+/*    height: 80vh;*/
+    margin: auto;
+    margin-top: 10vh;	
+}
+
+/*.select > select > option {*/
+/*
+option {
+	font-size: 24pt !important;
+}*/
